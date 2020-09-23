@@ -1,0 +1,14 @@
+{
+    "name": "brook",
+    "description": "brook wsserver on heroku",
+    "keywords": ["brook"],
+    "env": {
+        "PASSWORD": {
+            "description": "brook password",
+            "value": "password"
+        }
+    },
+    "website": "https://github.com/mixool/brook",
+    "repository": "https://github.com/mixool/brook",
+    "stack": "container"
+}

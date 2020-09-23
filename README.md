@@ -5,6 +5,6 @@
 TIPS:
 * 可在部署时修改变量PASSWORD
   
-* 客户端使用：
+* 客户端使用：  
   https://txthinking.github.io/brook/#/brook-wsclient-gui  
   https://github.com/txthinking/brook

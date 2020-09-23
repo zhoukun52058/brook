@@ -5,6 +5,6 @@
 TIPS:
 * 可在部署时修改变量PASSWORD
   
-* 客户端应使用wss去连接分配网址的443端，其它请参考:  
+* 客户端应使用wss去连接分配网址的443端口，其它请参考:  
   > https://txthinking.github.io/brook/#/brook-wsclient-gui  
   > https://github.com/txthinking/brook  

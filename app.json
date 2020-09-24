@@ -3,6 +3,10 @@
     "description": "brook wsserver on heroku",
     "keywords": ["brook"],
     "env": {
+        "WSPATH": {
+            "description": "websocket path",
+            "value": "/ws"
+        },
         "PASSWORD": {
             "description": "brook password",
             "value": "password"
